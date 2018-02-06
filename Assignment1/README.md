@@ -9,3 +9,10 @@ If your computer (assuming Mac) does not have GNU, install Homebrew by pasting a
 
 Enter your system password and wait for the installation to finish. Once it's done, you can now compile using gcc command.
 
+# Executing the program
+
+After compiling, type:
+
+./a.out
+
+Enjoy your shell!
