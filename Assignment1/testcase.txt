@@ -1,0 +1,42 @@
+echo
+echo 5
+echo 100
+echo 234rowfjeuhtiw3jgnflwieurhgfwl3i4ughlwre
+echo echo
+echo 234 wieufh 34 idufh 234 if 243
+echo 324234 echo 23423423
+
+cat testcat.txt
+cat testcat
+
+wc testcat.txt
+wc -m testcat.txt
+wc -w testcat.txt
+wc -l testcat.txt
+
+echo 5 > redirection.txt
+echo wqoehapowdfhasdf > redirection.txt
+cat testcat.txt > redirection.txt
+wc testcat.txt > redirection.txt
+
+echo 5 & echo 10
+echo weori & echo 39 & echo 23409 & echo foducn
+echo 5 & cat testcat.txt & echo awesome & wc redirection.txt
+(run that multiple times to test parallelism)
+
+echo 5 & echo 9 & echo 10 > redirection.txt & cat redirection.txt & wc redirection.txt
+
+echo 5 &
+cat testcat.txt &
+wc testcat.txt &
+echo 5 & echo 9 &
+echo 5 &&&&&&
+echo 5 & cat testcat.txt & echo awesome & wc redirection.txt &
+
+echo 5 >
+wc testcat.txt >
+cat testcat.txt >
+echo 5 & echo 10 & echo 234 >
+echo 12 & cat testcat.txt > redirection.txt & echo 23 &
+
+The test data provided here are of good quality because it covers most of the cases of use of the commands and functions.
